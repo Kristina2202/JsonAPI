@@ -1,0 +1,37 @@
+{
+"first_name": "Kristina",
+"last_name":"Silivonchik",
+"date_of_birth": "22.02.98",
+"gender":"female",
+"marriage":null,
+"phone_number":80292878167,
+"address":"Minsk, Odovskogo st., 59",
+"driver_licence":null,
+"hobbies":"photo.I like to ride motorcycles",
+"educations":[{
+	"name": "State Educational Institution Elizovskaya School",
+	"start_date": "01.09.2004",
+	"and_date": "31.05.2015",
+},{
+	"name": "UO Bobruisk State Medical College",
+	"start_date": "01.09.2015",
+	"and_date": "30.06.2017",
+},{
+	"name": "Belhard Academy.Software Testing Engineer.Basic level",
+	"start_date": "10.01.2023",
+	"and_date": "16.02.2023",
+}],
+"jobs":[{
+	"name": "Bobruisk maternity hospital",
+	"start_date": "01.08.2017",
+	"and_date": "01.11.2019",
+},{
+	"name": "Best Yammico Specialist in working with customers",
+	"start_date":"02.12.2019",
+	"and_date":"10.01.2021",
+},{
+	"name":"Minsk 20 polyclinic Endoscopy nurse",
+	"start_date":"02.02.2021",
+	"and_date":"24.10.2022",
+},]
+}
